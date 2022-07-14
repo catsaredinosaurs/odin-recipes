@@ -19,3 +19,7 @@ html{
     font-size: 32px;
 }
 
+p{
+   text-size-adjust: left; 
+}
+
